@@ -1,0 +1,12 @@
+E K E K Q K E E K E 
+Q E E E K E E E E K 
+E K E Q E E E E K E 
+K E K E K E Q K E K 
+E K E K E E E E Q E 
+E E Q E K E E E E K 
+E E E K E Q E E E E 
+E E E E E E E Q E E 
+E E E E E E E E E Q 
+Q E E E E E E E E E 
+Total Attacks: 1
+Elapsed Time: 120 seconds

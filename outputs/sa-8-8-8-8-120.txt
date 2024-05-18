@@ -1,0 +1,10 @@
+K E E E E E E Q 
+E K E Q E E E K 
+K E K E K E E Q 
+E Q E K E E E E 
+K E K E E E Q K 
+E E E Q E E E K 
+E E K E K E E Q 
+E K E E E Q E K 
+Total Attacks: 0
+Elapsed Time: 0.0382904 seconds

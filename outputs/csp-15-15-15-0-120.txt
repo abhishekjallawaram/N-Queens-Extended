@@ -1,0 +1,17 @@
+Q E E E E E E E E E E E E E E 
+E E E Q E E E E E E E E E E E 
+E Q E E E E E E E E E E E E E 
+E E E E E E E Q E E E E E E E 
+E E Q E E E E E E E E E E E E 
+E E E E E E E E E E Q E E E E 
+E E E E E E E E E E E E Q E E 
+E E E E E E E E E E E E E E Q 
+E E E E E E E E E Q E E E E E 
+E E E E Q E E E E E E E E E E 
+E E E E E E E E E E E E E Q E 
+E E E E E Q E E E E E E E E E 
+E E E E E E E E Q E E E E E E 
+E E E E E E Q E E E E E E E E 
+E E E E E E E E E E E Q E E E 
+Total Attacks: 0
+Elapsed Time: 0.000913 seconds
